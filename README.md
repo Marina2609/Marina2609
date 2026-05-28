@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/Marina2609">
-    <img src="https://img.shields.io/badge/Repositories-6-blue?logo=github&style=for-the-badge" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Repositories-43-blue?logo=github&style=for-the-badge" alt="Repositories"/>
   </a>
   <a href="https://github.com/Marina2609?tab=followers">
     <img src="https://img.shields.io/badge/Followers-2-green?logo=github&style=for-the-badge" alt="Followers"/>
