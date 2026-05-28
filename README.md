@@ -60,5 +60,5 @@
 
 ### 📫 Как со мной связаться
 
-*   **Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-@Marina_Gr4-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DARIJAB)
+*   ** [![Telegram](https://img.shields.io/badge/Telegram-@Marina_Gr4-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Marina_Gr4)
 *   **Живое портфолио:** [marina2609-portfolio.netlify.app](https://marina2609-portfolio.netlify.app)
