@@ -52,7 +52,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marina2609&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marina2609&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 49%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marina2609&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" style="width: 49%;"/>
 </p>
 
 ---
