@@ -7,8 +7,7 @@
 
 ### 🛠️ Мой технологический стек
 
-![React](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![Sass](https://shields.io) ![Webpack](https://shields.io)
-![C#](https://shields.io) ![Java](https://shields.io) ![MSSQL](https://shields.io)
+⚛️ React | 📘 TypeScript | 🟨 JavaScript | 🎨 Sass | 📦 Webpack | C #️⃣ | ☕ Java | 🗄️ MSSQL
 
 ---
 
@@ -26,9 +25,10 @@
 
 ### 📊 Моя активность на GitHub
 
-![GitHub Stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marina2609&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marina2609&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 
 ---
