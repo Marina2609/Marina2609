@@ -51,10 +51,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marina2609&theme=radical" alt="Profile Summary"/>
+</p>
 
 ---
 
 ### 📫 Как со мной связаться
 
-*   **Telegram:** [@Marina_Gr4]
+*   **Telegram:** @Marina_Gr4
 *   **Живое портфолио:** [marina2609-portfolio.netlify.app](https://marina2609-portfolio.netlify.app)
