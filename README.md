@@ -28,19 +28,27 @@
 
 Мой основной репозиторий [portfolio](https://github.com/Marina2609/portfolio) разделен на изолированные ветки. В каждой ветке развернут полноценный проект с собственной подробной технической спецификацией:
 
-*   **[RS Lang](https://github.com/Marina2609/portfolio/tree/lang)** — масштабное командное SPA-приложение на React + TypeScript для изучения английского языка. Интегрировано с REST API, включает систему авторизации, пагинацию (`react-paginate`), интерактивные мини-игры на время и дашборд долгосрочной аналитики.
 *   **[Audio Quiz](https://github.com/Marina2609/portfolio/tree/audio-quiz)** — игровое музыкальное SPA на чистом JavaScript. Написано по канонам ООП (классы, прототипы, жесткая инкапсуляция логики) без внешних фреймворков. Сборка настроена с нуля на Webpack 5. Интерфейс включает сложные CSS 3D-трансформации и визуализации.
 *   **[Museum Louvre](https://github.com/Marina2609/portfolio/tree/museum)** — интерактивный лендинг с валидной семантической версткой (Figma, Desktop First). Реализован кастомный HTML5 видеоплеер, сложные бесконечные слайдеры, динамический калькулятор продажи билетов и кастомизированная интерактивная карта Mapbox.
 *   **[Momentum Dashboard](https://github.com/Marina2609/portfolio/tree/momentum)** — персональный дашборд (ES-модули). Реализует асинхронную работу с внешними REST API (Unsplash, Flickr, OpenWeatherMap), кэширование настроек в LocalStorage и оптимизированные таймеры на рекурсивных `setTimeout`.
 *   **[Vertical Slider](https://github.com/Marina2609/portfolio/tree/vertical-slider)** — промо-компонент с нестандартной анимацией встречного движения контента (60 FPS), построенный на CSS Transitions, абсолютном позиционировании и расчете вьюпорта через JS.
+*   **[RS Lang](https://github.com/Marina2609/portfolio/tree/lang)** — масштабное командное SPA-приложение на React + TypeScript для изучения английского языка. Интегрировано с REST API, включает систему авторизации, пагинацию (`react-paginate`), интерактивные мини-игры на время и дашборд долгосрочной аналитики.
+
 
 ---
 
 ### 📊 Моя активность на GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marina2609&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marina2609&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="150"/>
+  <a href="https://github.com/Marina2609">
+    <img src="https://img.shields.io/badge/Repositories-6-blue?logo=github&style=for-the-badge" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/Marina2609?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-2-green?logo=github&style=for-the-badge" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Marina2609?tab=following">
+    <img src="https://img.shields.io/badge/Following-2-orange?logo=github&style=for-the-badge" alt="Following"/>
+  </a>
 </p>
 
 
